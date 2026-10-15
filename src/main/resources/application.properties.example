@@ -1,0 +1,5 @@
+spring.application.name=biblioteca-api
+spring.datasource.url=jdbc:mysql://localhost:3306/biblioteca_api
+spring.datasource.username=example
+spring.datasource.password=example
+spring.jpa.hibernate.ddl-auto=update
